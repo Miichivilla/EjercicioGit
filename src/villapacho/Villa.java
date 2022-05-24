@@ -9,5 +9,7 @@ package villapacho;
  * @author miich
  */
 public class Villa {
-    
+    public static void Mensaje (){
+     System.out.println("Imprime mensaje");
+    }
 }

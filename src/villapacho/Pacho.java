@@ -9,5 +9,10 @@ package villapacho;
  * @author miich
  */
 public class Pacho {
-    
+        public static void Suma(){
+            int num1=2;
+            int num2=6;
+            int resultado=num1+num2;
+     System.out.println("La suma es "+resultado);
+    }
 }
