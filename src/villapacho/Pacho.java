@@ -13,6 +13,18 @@ public class Pacho {
             int num1=2;
             int num2=6;
             int resultado=num1+num2;
-     System.out.println("La suma es "+resultado);
-    }
+            System.out.println("La suma es "+resultado);
+         }
+         public static void resta(){
+            int num1=2;
+            int num2=6;
+            int resultado=num1-num2;
+            System.out.println("La resta es "+resultado);
+         }
+         public static void multiplicacion(){
+            int num1=2;
+            int num2=6;
+            int resultado=num1*num2;
+            System.out.println("La multiplicacion es "+resultado);
+         }
 }
